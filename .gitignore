@@ -7,3 +7,15 @@ __pycache__/
 !.env.example
 .vscode/
 *.log
+# Node.js
+node_modules/
+dist/
+build/
+
+# Vercel
+.vercel/
+
+# Environment files
+.env
+.env.*
+!.env.example
