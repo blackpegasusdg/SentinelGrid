@@ -8,3 +8,4 @@ httpx==0.28.1
 python-multipart==0.0.20
 
 psycopg[binary]==3.2.13
+validators==0.34.0
